@@ -5,7 +5,8 @@ for i in range(n):
   a[i].append(1)
   for j in range(1, i):
     a[i].append(a[i - 1][j - 1] + a[i - 1][j])
-  if(n != 0):
+  if n != 0:
+    print()
     a[i].append(1)
 for i in range(n):
   print(" " * (n - i), end = " ", sep = " ")
