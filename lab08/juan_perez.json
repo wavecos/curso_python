@@ -1,0 +1,16 @@
+{
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "edad": 26,
+    "es_casado": false,
+    "direccion": {
+        "calle": "c. Buenos Aires",
+        "ciudad": "Cochabamba",
+        "Numero Casa": 256
+    },
+    "notas": [
+        41,
+        36,
+        87
+    ]
+}

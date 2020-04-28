@@ -1,0 +1,3 @@
+1001 Perez 5241
+1002 Gonzalez 3687
+1003 Robles 9870

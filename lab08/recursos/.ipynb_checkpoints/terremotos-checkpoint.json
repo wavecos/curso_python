@@ -1,0 +1,581 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1588027911000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson",
+        "title": "USGS Significant Earthquakes, Past Month",
+        "status": 200,
+        "api": "1.8.1",
+        "count": 14
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "132km W of Panguna, Papua New Guinea",
+                "time": 1587783185839,
+                "updated": 1587869908324,
+                "tz": 600,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60009c06",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us60009c06.geojson",
+                "felt": 1,
+                "cdi": 1,
+                "mmi": 4.111,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 611,
+                "net": "us",
+                "code": "60009c06",
+                "ids": ",us60009c06,",
+                "sources": ",us,",
+                "types": ",dyfi,geoserve,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 3.136,
+                "rms": 0.98,
+                "gap": 61,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - 132km W of Panguna, Papua New Guinea"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    154.3008,
+                    -6.5105,
+                    16.85
+                ]
+            },
+            "id": "us60009c06"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.69,
+                "place": "1km S of View Park-Windsor Hills, CA",
+                "time": 1587539027740,
+                "updated": 1588020428424,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39400304",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39400304.geojson",
+                "felt": 19187,
+                "cdi": 5.3,
+                "mmi": 4.56,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 739,
+                "net": "ci",
+                "code": "39400304",
+                "ids": ",ci39400304,us700091jx,",
+                "sources": ",ci,us,",
+                "types": ",dyfi,focal-mechanism,geoserve,nearby-cities,origin,phase-data,scitech-link,shakemap,",
+                "nst": 170,
+                "dmin": 0.01026,
+                "rms": 0.24,
+                "gap": 38,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 3.7 - 1km S of View Park-Windsor Hills, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.3495,
+                    33.989,
+                    11.6
+                ]
+            },
+            "id": "ci39400304"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.3,
+                "place": "25km SE of Ofunato, Japan",
+                "time": 1587328745984,
+                "updated": 1587729168113,
+                "tz": 540,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000903m",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us7000903m.geojson",
+                "felt": 62,
+                "cdi": 6.3,
+                "mmi": 5.537,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 650,
+                "net": "us",
+                "code": "7000903m",
+                "ids": ",us7000903m,",
+                "sources": ",us,",
+                "types": ",dyfi,geoserve,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.99,
+                "rms": 1.14,
+                "gap": 39,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.3 - 25km SE of Ofunato, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    141.9318,
+                    38.9119,
+                    38
+                ]
+            },
+            "id": "us7000903m"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.6,
+                "place": "209km W of Chichi-shima, Japan",
+                "time": 1587198337201,
+                "updated": 1587639450784,
+                "tz": 540,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70008z89",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70008z89.geojson",
+                "felt": 41,
+                "cdi": 3.8,
+                "mmi": 0,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 686,
+                "net": "us",
+                "code": "70008z89",
+                "ids": ",at00q8z62q,pt20109000,us70008z89,",
+                "sources": ",at,pt,us,",
+                "types": ",dyfi,geoserve,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 1.853,
+                "rms": 0.75,
+                "gap": 34,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.6 - 209km W of Chichi-shima, Japan"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    140.1061,
+                    27.1398,
+                    453.77
+                ]
+            },
+            "id": "us70008z89"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.19,
+                "place": "4km NE of Magna, Utah",
+                "time": 1587044489470,
+                "updated": 1587991221727,
+                "tz": -420,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu60378837",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu60378837.geojson",
+                "felt": 6455,
+                "cdi": 4.6,
+                "mmi": 4.92,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 730,
+                "net": "uu",
+                "code": "60378837",
+                "ids": ",uu60378837,us70008xj0,",
+                "sources": ",uu,us,",
+                "types": ",dyfi,geoserve,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 52,
+                "dmin": 0.02144,
+                "rms": 0.16,
+                "gap": 32,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 4.2 - 4km NE of Magna, Utah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0621667,
+                    40.7358333,
+                    9.52
+                ]
+            },
+            "id": "uu60378837"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.9,
+                "place": "38km ESE of Falam, Burma",
+                "time": 1587037523956,
+                "updated": 1587124066934,
+                "tz": 390,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70008xhp",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70008xhp.geojson",
+                "felt": 35,
+                "cdi": 5.6,
+                "mmi": 6.58,
+                "alert": "yellow",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 670,
+                "net": "us",
+                "code": "70008xhp",
+                "ids": ",us70008xhp,",
+                "sources": ",us,",
+                "types": ",dyfi,geoserve,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.416,
+                "rms": 0.9,
+                "gap": 35,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.9 - 38km ESE of Falam, Burma"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    94.0248,
+                    22.7822,
+                    10
+                ]
+            },
+            "id": "us70008xhp"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6,
+                "place": "55km NNE of Savannah Bight, Honduras",
+                "time": 1587024277597,
+                "updated": 1587751858203,
+                "tz": -360,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70008xeb",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70008xeb.geojson",
+                "felt": 135,
+                "cdi": 5.5,
+                "mmi": 4.647,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 628,
+                "net": "us",
+                "code": "70008xeb",
+                "ids": ",at00q8vfrr,pt20107000,us70008xeb,",
+                "sources": ",at,pt,us,",
+                "types": ",dyfi,geoserve,ground-failure,impact-link,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 3.323,
+                "rms": 1.45,
+                "gap": 31,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.0 - 55km NNE of Savannah Bight, Honduras"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -85.7099,
+                    16.9332,
+                    10
+                ]
+            },
+            "id": "us70008xeb"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.17,
+                "place": "4km ENE of Magna, Utah",
+                "time": 1586919369370,
+                "updated": 1587928929045,
+                "tz": -420,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu60378292",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/uu60378292.geojson",
+                "felt": 9135,
+                "cdi": 4.6,
+                "mmi": 4.78,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 728,
+                "net": "uu",
+                "code": "60378292",
+                "ids": ",uu60378292,us70008whe,",
+                "sources": ",uu,us,",
+                "types": ",dyfi,geoserve,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": 60,
+                "dmin": 0.01793,
+                "rms": 0.18,
+                "gap": 27,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 4.2 - 4km ENE of Magna, Utah"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -112.0576667,
+                    40.7338333,
+                    9.03
+                ]
+            },
+            "id": "uu60378292"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5.24,
+                "place": "30km SE of Bodie, CA",
+                "time": 1586615797040,
+                "updated": 1587998803647,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73367270",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73367270.geojson",
+                "felt": 1720,
+                "cdi": 5.6,
+                "mmi": 6.76,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 982,
+                "net": "nc",
+                "code": "73367270",
+                "ids": ",nn00721575,nc73367270,us70008tvv,",
+                "sources": ",nn,nc,us,",
+                "types": ",dyfi,focal-mechanism,geoserve,ground-failure,losspager,moment-tensor,nearby-cities,oaf,origin,phase-data,scitech-link,shake-alert,shakemap,",
+                "nst": 46,
+                "dmin": 0.268,
+                "rms": 0.06,
+                "gap": 97,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 5.2 - 30km SE of Bodie, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -118.7333333,
+                    38.0525,
+                    8.45
+                ]
+            },
+            "id": "nc73367270"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.5,
+                "place": "18km ESE of Anza, CA",
+                "time": 1586126238820,
+                "updated": 1587540895954,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39135575",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39135575.geojson",
+                "felt": 1108,
+                "cdi": 4.3,
+                "mmi": 4.54,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 618,
+                "net": "ci",
+                "code": "39135575",
+                "ids": ",ci39135575,us70008pjd,",
+                "sources": ",ci,us,",
+                "types": ",dyfi,focal-mechanism,geoserve,nearby-cities,origin,phase-data,scitech-link,shakemap,",
+                "nst": 141,
+                "dmin": 0.06774,
+                "rms": 0.21,
+                "gap": 28,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 3.5 - 18km ESE of Anza, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.4961667,
+                    33.4961667,
+                    13.25
+                ]
+            },
+            "id": "ci39135575"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 3.66,
+                "place": "16km ESE of Anza, CA",
+                "time": 1585965900170,
+                "updated": 1586564525925,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39126263",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39126263.geojson",
+                "felt": 1022,
+                "cdi": 5,
+                "mmi": 4.38,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 706,
+                "net": "ci",
+                "code": "39126263",
+                "ids": ",ci39126263,us70008n9z,",
+                "sources": ",ci,us,",
+                "types": ",dyfi,focal-mechanism,geoserve,nearby-cities,origin,phase-data,scitech-link,shakemap,",
+                "nst": 145,
+                "dmin": 0.06402,
+                "rms": 0.2,
+                "gap": 23,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 3.7 - 16km ESE of Anza, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.5153333,
+                    33.4946667,
+                    10.28
+                ]
+            },
+            "id": "ci39126263"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.87,
+                "place": "17km ESE of Anza, CA",
+                "time": 1585965198920,
+                "updated": 1587951092985,
+                "tz": -480,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci39126079",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ci39126079.geojson",
+                "felt": 22191,
+                "cdi": 4.8,
+                "mmi": 6.52,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 1,
+                "sig": 845,
+                "net": "ci",
+                "code": "39126079",
+                "ids": ",ci39126079,at00q88qkv,us70008n9b,",
+                "sources": ",ci,at,us,",
+                "types": ",dyfi,focal-mechanism,geoserve,impact-link,losspager,moment-tensor,nearby-cities,origin,phase-data,scitech-link,shake-alert,shakemap,",
+                "nst": 175,
+                "dmin": 0.07088,
+                "rms": 0.22,
+                "gap": 23,
+                "magType": "mw",
+                "type": "earthquake",
+                "title": "M 4.9 - 17km ESE of Anza, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -116.5063333,
+                    33.4895,
+                    10.45
+                ]
+            },
+            "id": "ci39126079"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.8,
+                "place": "72km ESE of Cascade, Idaho",
+                "time": 1585700861034,
+                "updated": 1586891733853,
+                "tz": -420,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70008js1",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70008js1.geojson",
+                "felt": 533,
+                "cdi": 6.6,
+                "mmi": 5.691,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 706,
+                "net": "us",
+                "code": "70008js1",
+                "ids": ",ak020485mtmv,us70008js1,mb80387309,",
+                "sources": ",ak,us,mb,",
+                "types": ",dyfi,geoserve,losspager,moment-tensor,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.935,
+                "rms": 0.81,
+                "gap": 39,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 4.8 - 72km ESE of Cascade, Idaho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.1673,
+                    44.3232,
+                    10
+                ]
+            },
+            "id": "us70008js1"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 6.5,
+                "place": "72km W of Challis, Idaho",
+                "time": 1585698751094,
+                "updated": 1587859362734,
+                "tz": -420,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70008jr5",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70008jr5.geojson",
+                "felt": 39151,
+                "cdi": 7.6,
+                "mmi": 8.239,
+                "alert": "green",
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 1410,
+                "net": "us",
+                "code": "70008jr5",
+                "ids": ",us70008jr5,mb80387294,uu60371877,",
+                "sources": ",us,mb,uu,",
+                "types": ",dyfi,finite-fault,general-link,general-text,geoserve,ground-failure,impact-text,losspager,moment-tensor,oaf,origin,phase-data,shakemap,",
+                "nst": null,
+                "dmin": 0.879,
+                "rms": 0.68,
+                "gap": 31,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 6.5 - 72km W of Challis, Idaho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -115.1356,
+                    44.4603,
+                    14.53
+                ]
+            },
+            "id": "us70008jr5"
+        }
+    ],
+    "bbox": [
+        -118.7333333,
+        -6.5105,
+        8.45,
+        154.3008,
+        44.4603,
+        453.77
+    ]
+}
